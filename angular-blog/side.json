@@ -1,0 +1,42 @@
+{
+    "categories": [
+        {
+            "name": "categoria 1",
+            "count": "4"
+        },
+        {
+            "name": "categoria 2",
+            "count": "7"
+        },
+        {
+            "name": "categoria 4",
+            "count": "1"
+        }
+    ],
+    "popularPosts": [
+
+    ],
+    "tags": [
+        {
+            "name": "tag 1"
+        },
+        {
+            "name": "tag 2"
+        },
+        {
+            "name": "tag 3"
+        },
+        {
+            "name": "tag 4"
+        },
+        {
+            "name": "tag 5"
+        },
+        {
+            "name": "tag 6"
+        },
+        {
+            "name": "tag 7"
+        }
+    ]
+}
