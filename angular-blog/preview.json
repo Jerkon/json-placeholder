@@ -3,9 +3,9 @@
     "id": 1,
     "image": "https://picsum.photos/id/457/600/400",
     "title": "Lorem impist title",
-    "introduction": "",
+    "creationDate": "07-10-2019",
     "user": "Marco Fumagalli",
-    "creationDate": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque erat urna, volutpat nec ornare a, eleifend mollis diam. Proin imperdiet nisi in orci ultrices volutpat. Nulla facilisi. Ut eget erat et dolor dapibus tempus. Proin sem est, convallis quis consequat a, rutrum mollis ex. Nulla efficitur mattis rutrum.",
+    "introduction": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque erat urna, volutpat nec ornare a, eleifend mollis diam. Proin imperdiet nisi in orci ultrices volutpat. Nulla facilisi. Ut eget erat et dolor dapibus tempus. Proin sem est, convallis quis consequat a, rutrum mollis ex. Nulla efficitur mattis rutrum.",
     "tags": [
       {
         "name": "Blog"
